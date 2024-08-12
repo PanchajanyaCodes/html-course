@@ -1,0 +1,29 @@
+body {
+	background-color: #1f1f1f;
+	color: #f5f5f5;
+	font-family: "poppins";
+}
+
+a {
+	color: red;
+}
+
+a:visited {
+	color: indianred;
+}
+
+a:hover,
+a:active {
+	color: green;
+}
+
+table,
+tr,
+th,
+td,
+caption {
+	border: 1px solid #f5f5f5;
+	font-family: "cascadia code", monospace;
+	border-collapse: collapse;
+	padding: 0.5rem;
+}
